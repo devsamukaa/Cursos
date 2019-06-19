@@ -1,0 +1,4006 @@
+fileFormatVersion: 2
+guid: f4b31806f165a7f46ad5ffad18b8d247
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Button-otimized_0
+    21300002: Button-otimized_1
+    21300004: Button-otimized_2
+    21300006: Button-otimized_3
+    21300008: Button-otimized_4
+    21300010: Button-otimized_5
+    21300012: Button-otimized_6
+    21300014: Button-otimized_7
+    21300016: Button-otimized_8
+    21300018: Button-otimized_9
+    21300020: Button-otimized_10
+    21300022: Button-otimized_11
+    21300024: Button-otimized_12
+    21300026: Button-otimized_13
+    21300028: Button-otimized_14
+    21300030: Button-otimized_15
+    21300032: Button-otimized_16
+    21300034: Button-otimized_17
+    21300036: Button-otimized_18
+    21300038: Button-otimized_19
+    21300040: Button-otimized_20
+    21300042: Button-otimized_21
+    21300044: Button-otimized_22
+    21300046: Button-otimized_23
+    21300048: Button-otimized_24
+    21300050: Button-otimized_25
+    21300052: Button-otimized_26
+    21300054: Button-otimized_27
+    21300056: Button-otimized_28
+    21300058: Button-otimized_29
+    21300060: Button-otimized_30
+    21300062: Button-otimized_31
+    21300064: Button-otimized_32
+    21300066: Button-otimized_33
+    21300068: Button-otimized_34
+    21300070: Button-otimized_35
+    21300072: Button-otimized_36
+    21300074: Button-otimized_37
+    21300076: Button-otimized_38
+    21300078: Button-otimized_39
+    21300080: Button-otimized_40
+    21300082: Button-otimized_41
+    21300084: Button-otimized_42
+    21300086: Button-otimized_43
+    21300088: Button-otimized_44
+    21300090: Button-otimized_45
+    21300092: Button-otimized_46
+    21300094: Button-otimized_47
+    21300096: Button-otimized_48
+    21300098: Button-otimized_49
+    21300100: Button-otimized_50
+    21300102: Button-otimized_51
+    21300104: Button-otimized_52
+    21300106: Button-otimized_53
+    21300108: Button-otimized_54
+    21300110: Button-otimized_55
+    21300112: Button-otimized_56
+    21300114: Button-otimized_57
+    21300116: Button-otimized_58
+    21300118: Button-otimized_59
+    21300120: Button-otimized_60
+    21300122: Button-otimized_61
+    21300124: Button-otimized_62
+    21300126: Button-otimized_63
+    21300128: Button-otimized_64
+    21300130: Button-otimized_65
+    21300132: Button-otimized_66
+    21300134: Button-otimized_67
+    21300136: Button-otimized_68
+    21300138: Button-otimized_69
+    21300140: Button-otimized_70
+    21300142: Button-otimized_71
+    21300144: Button-otimized_72
+    21300146: Button-otimized_73
+    21300148: Button-otimized_74
+    21300150: Button-otimized_75
+    21300152: Button-otimized_76
+    21300154: Button-otimized_77
+    21300156: Button-otimized_78
+    21300158: Button-otimized_79
+    21300160: Button-otimized_80
+    21300162: Button-otimized_81
+    21300164: Button-otimized_82
+    21300166: Button-otimized_83
+    21300168: Button-otimized_84
+    21300170: Button-otimized_85
+    21300172: Button-otimized_86
+    21300174: Button-otimized_87
+    21300176: Button-otimized_88
+    21300178: Button-otimized_89
+    21300180: Button-otimized_90
+    21300182: Button-otimized_91
+    21300184: Button-otimized_92
+    21300186: Button-otimized_93
+    21300188: Button-otimized_94
+    21300190: Button-otimized_95
+    21300192: Button-otimized_96
+    21300194: Button-otimized_97
+    21300196: Button-otimized_98
+    21300198: Button-otimized_99
+    21300200: Button-otimized_100
+    21300202: Button-otimized_101
+    21300204: Button-otimized_102
+    21300206: Button-otimized_103
+    21300208: Button-otimized_104
+    21300210: Button-otimized_105
+    21300212: Button-otimized_106
+    21300214: Button-otimized_107
+    21300216: Button-otimized_108
+    21300218: Button-otimized_109
+    21300220: Button-otimized_110
+    21300222: Button-otimized_111
+    21300224: Button-otimized_112
+    21300226: Button-otimized_113
+    21300228: Button-otimized_114
+    21300230: Button-otimized_115
+    21300232: Button-otimized_116
+    21300234: Button-otimized_117
+    21300236: Button-otimized_118
+    21300238: Button-otimized_119
+    21300240: Button-otimized_120
+    21300242: Button-otimized_121
+    21300244: Button-otimized_122
+    21300246: Button-otimized_123
+    21300248: Button-otimized_124
+    21300250: Button-otimized_125
+    21300252: Button-otimized_126
+    21300254: Button-otimized_127
+    21300256: Button-otimized_128
+    21300258: Button-otimized_129
+    21300260: Button-otimized_130
+    21300262: Button-otimized_131
+    21300264: Button-otimized_132
+    21300266: Button-otimized_133
+    21300268: Button-otimized_134
+    21300270: Button-otimized_135
+    21300272: Button-otimized_136
+    21300274: Button-otimized_137
+    21300276: Button-otimized_138
+    21300278: Button-otimized_139
+    21300280: Button-otimized_140
+    21300282: Button-otimized_141
+    21300284: Button-otimized_142
+    21300286: Button-otimized_143
+    21300288: Button-otimized_144
+    21300290: Button-otimized_145
+    21300292: Button-otimized_146
+    21300294: Button-otimized_147
+    21300296: Button-otimized_148
+    21300298: Button-otimized_149
+    21300300: Button-otimized_150
+    21300302: Button-otimized_151
+    21300304: Button-otimized_152
+    21300306: Button-otimized_153
+    21300308: Button-otimized_154
+    21300310: Button-otimized_155
+    21300312: Button-otimized_156
+    21300314: Button-otimized_157
+    21300316: Button-otimized_158
+    21300318: Button-otimized_159
+    21300320: Button-otimized_160
+    21300322: Button-otimized_161
+    21300324: Button-otimized_162
+    21300326: Button-otimized_163
+    21300328: Button-otimized_164
+    21300330: Button-otimized_165
+    21300332: Button-otimized_166
+    21300334: Button-otimized_167
+    21300336: Button-otimized_168
+    21300338: Button-otimized_169
+    21300340: Button-otimized_170
+    21300342: Button-otimized_171
+    21300344: Button-otimized_172
+    21300346: Button-otimized_173
+    21300348: Button-otimized_174
+    21300350: Button-otimized_175
+    21300352: Button-otimized_176
+    21300354: Button-otimized_177
+    21300356: Button-otimized_178
+    21300358: Button-otimized_179
+    21300360: Button-otimized_180
+    21300362: Button-otimized_181
+    21300364: Button-otimized_182
+    21300366: Button-otimized_183
+    21300368: Button-otimized_184
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Button-otimized_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 3267
+        width: 466
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02696492288bfbc4dbc6324a89e34e35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_1
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 3267
+        width: 466
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793990688045cd142a5f2392dfc5009a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_2
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 3267
+        width: 462
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433b2ae1ca1d6b847b530f8e82c8253c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_3
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 3267
+        width: 462
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42564415bcebce54f9c4ae6f46d7082c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_4
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 3366
+        width: 202
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2323a5e0a66389e40a4162a329516153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_5
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 3366
+        width: 200
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b850fb8b87e5724aae375e0c470f017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_6
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 3366
+        width: 202
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b450c066a32685645b4a2fe6ef810e43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_7
+      rect:
+        serializedVersion: 2
+        x: 2829
+        y: 3366
+        width: 200
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad24ccda5dcf64c4d97c279b659cf2ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_8
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 3366
+        width: 201
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b5293febc91134f86a9ea17b51e0d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_9
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 3366
+        width: 204
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42ed846058c40347945f22afb00de07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_10
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 3366
+        width: 201
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f833680bddc5843aa09ea595a80b52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_11
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 3366
+        width: 203
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a832431cd938e48b27eee5f98e3929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 3008
+        width: 465
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b21b547cd3fa149b724286729cf111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_13
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 3008
+        width: 466
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6915cd268c0b5f44989d7ea9df119f67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_14
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 3008
+        width: 462
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265c98dcc3a09654fb74eba737d3ae32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_15
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 3008
+        width: 462
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f46f79f19c07e46a651bb851c45b8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_16
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 3132
+        width: 202
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6481c57b3bc584caceca64dab61a85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_17
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 3132
+        width: 200
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d853969ebeae4e246a38d3d04706067d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_18
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 3132
+        width: 201
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc83dfa5f04dab541bf187e69595aa68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_19
+      rect:
+        serializedVersion: 2
+        x: 2829
+        y: 3132
+        width: 200
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ebeb39fd2b0ae41900f0530deecadc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_20
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 3132
+        width: 201
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1beab33c79fd7a947b68400eb8eda59e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_21
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 3132
+        width: 204
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adc27b0c0b6204419a058cf3282a696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_22
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 3132
+        width: 201
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40232319c8b03004ea5e4351a5997e38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_23
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 3132
+        width: 203
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c6c04bddca2a74f8e7f2b540fd97c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_24
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 2757
+        width: 200
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e313927d4350ec642a8c95225c1a5655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_25
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 2757
+        width: 201
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cadf029462bdf4ba355ad7e4604f7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_26
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 2757
+        width: 202
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c715fe8df58e7544782e199e85a2a75f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_27
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 2757
+        width: 203
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b758bf8ea4b813543a8f50645a05dee3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_28
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 2757
+        width: 199
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f01f5e408396494e97b77dc9e84902f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_29
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 2897
+        width: 202
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7dec632a7285704fb0df366576678e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_30
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 2897
+        width: 200
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97f282724edc3040a1c147abae7acdf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_31
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 2897
+        width: 201
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122da34f471c7af42a69037a4595e20d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_32
+      rect:
+        serializedVersion: 2
+        x: 2829
+        y: 2897
+        width: 200
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e820942d654a524eade8ab5e4066ceb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_33
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 2896
+        width: 201
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111d0bb5aeaab8646949f5966bfe41fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_34
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 2896
+        width: 204
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92125be2caf6d044995478db7c720ea3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_35
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 2897
+        width: 201
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c032577c52c62e64bbf6633d0d0d2eb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_36
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 2896
+        width: 200
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0144e89e1c5a3b469ac046207b93182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_37
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 2665
+        width: 202
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4e9e451e0e07f4c8dee8c9218c4ae8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_38
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 2664
+        width: 200
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c6225d209bf454986857d5dea63d75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_39
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 2665
+        width: 200
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296890e40c02dbf44956d3e4785edd7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_40
+      rect:
+        serializedVersion: 2
+        x: 2829
+        y: 2664
+        width: 200
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90dee2d3c763f44499ca324ca72c7d06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_41
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 2665
+        width: 201
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602e0556309e51341b74dd1fb8d0d345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_42
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 2665
+        width: 204
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3085e17f6678d3a43ba75eed27b30539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_43
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 2664
+        width: 201
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d7486498184524ebbce4729d318e9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_44
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2665
+        width: 203
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c322612968d24844b4584132b8f3546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_45
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 2430
+        width: 200
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb452e5c2f8519c408d8cf76220d7dce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_46
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 2430
+        width: 201
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734104a1bb52f0949a49935894c79430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_47
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2430
+        width: 203
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c7dafb82794ff4e957da642a211e37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_48
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 2430
+        width: 203
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79aa53262fbe7e488bac583a68d2ba0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_49
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 2430
+        width: 200
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd4e747461f50f40b3a545a7e4780b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_50
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 2430
+        width: 200
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bb11c8269a822439b6a083715f086d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_51
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 2430
+        width: 202
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b18a8953272e9f44b221ce2984cbab1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_52
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 2430
+        width: 200
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf55a0b3dc432d4e8bb174b21d5eeb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_53
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 2430
+        width: 202
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c625fa1764c26a1479441b6196b016ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_54
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 2430
+        width: 200
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd4b5831ece67749aecee47c82aebf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_55
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 2430
+        width: 202
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7971df7407d3b1a40bc7b665d7935e99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_56
+      rect:
+        serializedVersion: 2
+        x: 2829
+        y: 2430
+        width: 200
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156cf45274c17064887d7b5a41ece109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_57
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 2430
+        width: 201
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7541105223fe236479bde57b0e20f070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_58
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 2430
+        width: 204
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a738436155c89604385f869fb2d08f97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_59
+      rect:
+        serializedVersion: 2
+        x: 3625
+        y: 2430
+        width: 200
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5407bee393e916249ab3ccd1dfea27a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_60
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 2430
+        width: 200
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fbb998bf7608344b5101d20e355b27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_61
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 2197
+        width: 204
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95b494817dde7749b499687737d26fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_62
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 2197
+        width: 201
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538f24f786486e2489b7ae8ceadb3832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_63
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2197
+        width: 203
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98409360c28455149839e92f450063b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_64
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 2197
+        width: 202
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f34c5905934c849a9e43b573f90b3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_65
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 2197
+        width: 203
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d87c6110a47c224db436bd03063c814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_66
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 2197
+        width: 200
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e60e4cd706e8c4dbf35f1a33c01d0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_67
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 2197
+        width: 202
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bf559c02848dc4e8ab0f6929826321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_68
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 2197
+        width: 200
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c4bcb9f0d5e8b419923a67cde9a7a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_69
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 2197
+        width: 199
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e22a6d919a9b24aad5745f7a15d21a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_70
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 2197
+        width: 200
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2405316ed4ae57a4ba402f26431fb8ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_71
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 2197
+        width: 201
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3dd7dc7329b8774c89dc0a875510750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_72
+      rect:
+        serializedVersion: 2
+        x: 2829
+        y: 2197
+        width: 200
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017eb3dd5a78d7048a3890749f043700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_73
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 2197
+        width: 201
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3355414d292946d45b9f1f7e7a069e72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_74
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 2197
+        width: 204
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75244ac63faba414da6743f7c24f7805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_75
+      rect:
+        serializedVersion: 2
+        x: 3625
+        y: 2197
+        width: 200
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b4f05f5d686064bad36a5d3a58edc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_76
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2197
+        width: 203
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa01ac80f3e4a9c43b0d6e60ca07548c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_77
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1963
+        width: 203
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3104316bd0b9b2e478181ce7d49b1609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_78
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1963
+        width: 201
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363e4319193b8884db104ae00d790e86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_79
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1963
+        width: 203
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095ca75f42ee97c428233e0eb1bd4a79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_80
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1963
+        width: 203
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e723bcc143bff4544aba180b5497cc78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_81
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1963
+        width: 203
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6195e98f78045ae44af4995605f986af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_82
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1963
+        width: 200
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cd5d435699682428fa9ec01f29bdd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_83
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 1963
+        width: 202
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0436e8d02d41ffc4ca97f15332bc1e61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_84
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 1963
+        width: 200
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67443f2848802942bfae89e1dc7edda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_85
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 1963
+        width: 202
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59042eadc4923fc4e9197fed90ce6ab2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_86
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 1963
+        width: 200
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2ca95ded555f84a8a81c88b684c274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_87
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 1963
+        width: 201
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04875bfd87e28b84aa12367f15326602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_88
+      rect:
+        serializedVersion: 2
+        x: 2829
+        y: 1963
+        width: 200
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef448cc5788e4d45b939085af2340a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_89
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 1963
+        width: 201
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ffb500098da9643a08c428bd1e8e51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_90
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 1963
+        width: 204
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f898f4f9170057a46bdbd888bef7de8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_91
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 1963
+        width: 201
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ab1cebd5de1894aaf1e8aa3e6e47c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_92
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1963
+        width: 203
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b23aacfbcf5514389c752c6cd1e56d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_93
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1729
+        width: 203
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad32597f74931d5438778da3c93b8f39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_94
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1729
+        width: 201
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422204f2300718940852faa7fdcafcd2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_95
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1729
+        width: 203
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bc3391eb8a31240bbe5dc2d0917096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_96
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1729
+        width: 202
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037b0a89965e933468640f7fbc36891f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_97
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1728
+        width: 203
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15266d4b0d90a7f428048d212c8ff8f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_98
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1729
+        width: 200
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4e39c4fc7d21843b61da6d092e2c3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_99
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 1729
+        width: 202
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0818f1f02a7004cbb444f81dcccefb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_100
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 1729
+        width: 200
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a412955124b952e4f94d25942ff1bca1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_101
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 1729
+        width: 202
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da164e0a94e2c364ea67e70a8e009ece
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_102
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 1729
+        width: 200
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1d8b4fb9a698c4c8a9fb638a8e65b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_103
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 1729
+        width: 201
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce68ffccf31e72d40bce11e396f9dd37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_104
+      rect:
+        serializedVersion: 2
+        x: 2829
+        y: 1729
+        width: 200
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fdff2990afd49429f9542c78fd7136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_105
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 1729
+        width: 201
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941754aae69fc3b47ad6e923f64eea38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_106
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 1729
+        width: 204
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3d3830e5b62364bbc5b8193d5e11f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_107
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 1729
+        width: 201
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8083276024e417b479c9c74dcdd40eea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_108
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 1729
+        width: 200
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caebe61cffcb0354795d5cb07fdc838e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_109
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1495
+        width: 200
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5860b7e24a9126478f20d0b0db4ebb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_110
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1495
+        width: 201
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57cf0cb7d18e5745b553bae32ed05e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_111
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1495
+        width: 203
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da9e3806d50794439f6a91f40c2ecba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_112
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1495
+        width: 202
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11b27466db79384e9d73f9f6c202441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_113
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1495
+        width: 203
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3281f2d9dac0fbd42919bdeda4021b7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_114
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1495
+        width: 200
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7316c286da1fa524bb963a69cb563305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_115
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 1495
+        width: 201
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac5530b5c1514b449da7b775cbcd12b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_116
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 1495
+        width: 200
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ab45cceef90524aa85111533cb47c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_117
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 1495
+        width: 202
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153cbc7a3805516498d0125a4f7286ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_118
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 1495
+        width: 200
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985e60b898d1d9747b5210571dad4574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_119
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 1495
+        width: 202
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4f410e2b8251d4cb6687b0641ff8bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_120
+      rect:
+        serializedVersion: 2
+        x: 2829
+        y: 1495
+        width: 200
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475c00d92f6cdc04daad84b45f4f09ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_121
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 1495
+        width: 200
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642dc80dfb827c143bde44b7abf445df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_122
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 1495
+        width: 204
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0ad53cec2f7034387a2220fed75aec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_123
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 1495
+        width: 201
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a7a7a710a46c447b977aa9cc24167a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_124
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 1495
+        width: 200
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6847393ac1e2e0a40bcb45140a6d581b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_125
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1261
+        width: 203
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8753c815c0cd2a547bd6a7caafb10338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_126
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1261
+        width: 201
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b11858386971f04daaaea4ef9230421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_127
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1261
+        width: 203
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e94efa2e85f6394ba0597391ad47894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_128
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1261
+        width: 202
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26dbdf82981d2a64592cbcf51937b122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_129
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1261
+        width: 203
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e94701f689f9c409cbedcad1a0d95f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_130
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1261
+        width: 200
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a2d2e4872a4a84d8ae6bf240bb5e72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_131
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 1261
+        width: 202
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c97bd3f688fc1a45a93b41966ee06a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_132
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 1261
+        width: 200
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5109a68eff02764b883169f4dd83d01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_133
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 1261
+        width: 202
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a242c9c32552ca74b9b1eca6bf4f42fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_134
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 1261
+        width: 200
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109ebf04720403d4a8272ab9ff9a7a33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_135
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 1261
+        width: 201
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54a9011be1384449a0ffd051aa502d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_136
+      rect:
+        serializedVersion: 2
+        x: 2829
+        y: 1261
+        width: 200
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d07baecb42763438da8cf6645e68ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_137
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 1261
+        width: 201
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ad387ff4911794a8ed2782f52bec88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_138
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 1261
+        width: 204
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5430d8bae4d1e8f45ae39f22af2725a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_139
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 1261
+        width: 201
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55176c3c02e17294bb5864b4cead018e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_140
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 1261
+        width: 200
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14702b31f6f6b65408db333e8cd87afc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_141
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1027
+        width: 203
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abf7632c22e7174280ad89d69737584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_142
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1027
+        width: 201
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c76742da5080f40a07c8e939be50dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_143
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1027
+        width: 203
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8123076e666e72c4f966a4ef814d5e8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_144
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1027
+        width: 203
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409fe3428fe01e94887740740922a11e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_145
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1027
+        width: 203
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3025fbeb5f8844cafeec02059bee33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_146
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1027
+        width: 200
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ba4307f81624c49a794e28a3604758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_147
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 1027
+        width: 202
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88698755c2912f42818be3dd3882545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_148
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 1027
+        width: 200
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165918842f1fd744585a478c8bbbf268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_149
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 1027
+        width: 199
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3476a92c7b113b46a435f6f9ac8ecc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_150
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 1027
+        width: 200
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4839ab396d03e9a44b1f139ee09bb854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_151
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 1027
+        width: 201
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca0448756d4a7f468543f6d9cdd3920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_152
+      rect:
+        serializedVersion: 2
+        x: 2829
+        y: 1027
+        width: 200
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4910fb963cd5b4e4c897618db48c1465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_153
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 1027
+        width: 201
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e66cf5dfcdb1af4bbe47828f26421dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_154
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 1027
+        width: 204
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a005443505ce82478488de3f4fb5efb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_155
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 1027
+        width: 201
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3069714eaf6eca4ca732d0b7b0a6f60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_156
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 1027
+        width: 200
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4cba56bcbd15943837fddeb6e6bc79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_157
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 793
+        width: 203
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41979919b2287db47bc3fe3d5a574f6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_158
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 793
+        width: 201
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797270a5199659c4fbc61f018f6281e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_159
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 793
+        width: 203
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703e2dec0b505a743962490b15522721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_160
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 793
+        width: 201
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847541dd3cb245a4986857c950fcd39c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_161
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 793
+        width: 203
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de980f7a52dd084a9f40899ebc14417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_162
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 792
+        width: 200
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60531f7bd78487147a8e3ab67633eee8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_163
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 793
+        width: 202
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b408f77f5b959a46956a110b90bf38a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_164
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 792
+        width: 200
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64db4a93fe21ec049a843403208c44bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_165
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 795
+        width: 202
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd278bd6834fa64c9cdfdee417caab3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_166
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 795
+        width: 200
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d6260b45b0cf14ca33552bcad45cd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_167
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 795
+        width: 201
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff015fe7e0fa98f4db1195e09b977d6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_168
+      rect:
+        serializedVersion: 2
+        x: 2829
+        y: 795
+        width: 200
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd1779d4d0bcf143985035cf2efbe36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_169
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 795
+        width: 201
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca10026dd7ee8f4dab4a168c085b34b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_170
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 795
+        width: 204
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a0a102fce7db643a0f3fec5bd52067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_171
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 795
+        width: 201
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d34e47cfcf1dd545a8f288f2b74f37a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_172
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 795
+        width: 200
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e849652b5fdefcd42bc9c5ec183e6c20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_173
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 559
+        width: 200
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7e1896699602f45acbe5e21d30ec99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_174
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 559
+        width: 201
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39c4979623335043a7ffb9ac1544200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_175
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 559
+        width: 203
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25235fa62eed31c4a81b33b2e0ce7169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_176
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 559
+        width: 203
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df461ec4b6c71142b1c3c8aa19473fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_177
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 559
+        width: 200
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f26162b88134684eae7a9dfcf2516ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_178
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 559
+        width: 200
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac5d4028fbd18441ac500caf3c7ab88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_179
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 559
+        width: 201
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb3057d6cb0fbf40abeaf471101f4c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_180
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 559
+        width: 200
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df376efcb39f2841bec4edb876dbc36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_181
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 559
+        width: 202
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7e1f73b1dc5a24696a24408f09fbc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_182
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 559
+        width: 200
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f2b5f7d7e800645ac4493ee516d6c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_183
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 559
+        width: 202
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7f78b29fb2e4247b10b8e5cb98b109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button-otimized_184
+      rect:
+        serializedVersion: 2
+        x: 2829
+        y: 559
+        width: 200
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7144b0c77008942a84c321ae4f6f86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b2bf45d869be121418d4384417b81c9c
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
