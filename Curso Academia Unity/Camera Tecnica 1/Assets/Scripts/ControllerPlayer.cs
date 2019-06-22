@@ -111,8 +111,6 @@ public class ControllerPlayer : MonoBehaviour {
 
         playerAnimator.SetBool("Jump", !isGrounded); // true ou false
         playerAnimator.SetBool("Run", playerRigidbody2D.velocity.x != 0f && isGrounded );
-
-
     }
 
     void MovePlayer(float movimentoH)
